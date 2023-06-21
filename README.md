@@ -12,9 +12,9 @@ https://github.com/GabeGibb/valdle
 https://github.com/GabeGibb/Sudoku-Java
 ## Badminton Video Analyzer: A Flask web app that uses image recognition and computer vision to analyze badminton videos
 https://github.com/GabeGibb/Badminton-Video-Analyzer
-## Social Stock: Endpoints for a mobile app that attempts to predict the stock market
-https://github.com/GabeGibb/SocialStock
 ## Minesweeper: A web version of Minesweeper
 https://github.com/GabeGibb/Minesweeper
 ## Tetris: A web version of Tetris
 https://github.com/GabeGibb/Tetris
+## Social Stock: Endpoints for a mobile app that attempts to predict the stock market
+https://github.com/GabeGibb/SocialStock
