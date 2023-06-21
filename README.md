@@ -1,6 +1,7 @@
 ### Hi there 👋 here are some links to some of my projects!
 
-https://github.com/GabeGibb/fablix
+
+https://github.com/GabeGibb/fablix (MAY BE PRIVATED)
 
 https://github.com/GabeGibb/fablix-android
 
