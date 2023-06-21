@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 here are some links to some of my projects!
 
-<!--
-**GabeGibb/GabeGibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/GabeGibb/fablix
 
-Here are some ideas to get you started:
+https://github.com/GabeGibb/fablix-android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/GabeGibb/RankBot
+
+https://github.com/GabeGibb/valdle
+
+https://github.com/GabeGibb/Sudoku-Java
+
+https://github.com/GabeGibb/Badminton-Video-Analyzer
+
+https://github.com/GabeGibb/SocialStock
+
+https://github.com/GabeGibb/Minesweeper
+
+https://github.com/GabeGibb/Tetris
