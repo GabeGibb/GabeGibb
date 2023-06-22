@@ -2,7 +2,7 @@
 
 ## Fablix: A full-stack web app that interacts with a movie database
 https://github.com/GabeGibb/Fablix-Public/tree/main
-# Android app for Fablix
+#### Android app for Fablix
 https://github.com/GabeGibb/fablix-android
 ## Rankbot: A discord bot that provides real-time updates to ranked wins and losses for video games
 https://github.com/GabeGibb/RankBot
