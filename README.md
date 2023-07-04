@@ -12,6 +12,8 @@ https://github.com/GabeGibb/valdle
 https://github.com/GabeGibb/Sudoku-Java
 ## Badminton Video Analyzer: A Flask web app that uses image recognition and computer vision to analyze badminton videos
 https://github.com/GabeGibb/Badminton-Video-Analyzer
+## Chat Website
+https://github.com/GabeGibb/ChatApp
 ## Minesweeper: A web version of Minesweeper
 https://github.com/GabeGibb/Minesweeper
 ## Tetris: A web version of Tetris
