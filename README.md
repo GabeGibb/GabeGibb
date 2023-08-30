@@ -1,7 +1,7 @@
 ### Hi there 👋 here are links to some of my projects!
 
 ## Valdle: A wordle-like website but for the game Valorant
-[valdle.gg](https://valdle.gg/) (repo is privated)
+https://github.com/GabeGibb/valdle
 ## Fablix: A full-stack web app that interacts with a movie database
 https://github.com/GabeGibb/Fablix-Public/tree/main
 #### Android app for Fablix
