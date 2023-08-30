@@ -1,12 +1,10 @@
 ### Hi there 👋 here are links to some of my projects!
 
-## Valdle: A wordle-like website but for the game Valorant
+# Valdle: A wordle-like website but for the game Valorant
 https://valdle.gg/ | https://github.com/GabeGibb/valdle
-## Fablix: A full-stack web app that interacts with a movie database
+# Fablix: A full-stack web app that interacts with a movie database
 https://github.com/GabeGibb/Fablix-Public/tree/main
-#### Android app for Fablix
-https://github.com/GabeGibb/fablix-android
-## Rankbot: A discord bot that provides real-time updates to ranked wins and losses for video games
+# Rankbot: A discord bot that provides real-time updates to ranked wins and losses for video games
 https://github.com/GabeGibb/RankBot
 ## Sudoku: A desktop version of sudoku
 https://github.com/GabeGibb/Sudoku-Java
@@ -18,5 +16,4 @@ https://github.com/GabeGibb/ChatApp
 https://github.com/GabeGibb/Minesweeper
 ## Tetris: A web version of Tetris
 https://github.com/GabeGibb/Tetris
-## Social Stock: Endpoints for a mobile app that attempts to predict the stock market
-https://github.com/GabeGibb/SocialStock
+
