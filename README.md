@@ -1,4 +1,5 @@
 ### Hi there 👋 here are links to some of my projects!
+# Portfolio - https://gabegibb.github.io/Portfolio/
 
 # Valdle: A wordle-like website but for the game Valorant
 - Website: https://valdle.gg/
